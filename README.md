@@ -1,0 +1,2 @@
+# clickdsb
+disable right button
